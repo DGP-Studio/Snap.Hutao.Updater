@@ -1,0 +1,2 @@
+# Snap.Hutao.Updater
+ 
